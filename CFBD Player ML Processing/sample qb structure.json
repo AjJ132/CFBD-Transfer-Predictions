@@ -1,0 +1,87 @@
+{
+    "player": {
+      "id": "4430841",
+      "firstName": "Carson",
+      "lastName": "Beck",
+      "position": "QB",
+      "height": 76,
+      "weight": 220,
+      "hometown": {
+        "city": "Jacksonville",
+        "state": "FL",
+        "country": "USA"
+      },
+      "recruitingInfo": {
+        "stars": 4,
+        "nationalRank": 250,
+        "positionRank": 9
+      }
+    },
+    "academic": {
+      "year": "Junior",
+      "eligibilityYear": 3,
+      "gpa": 3.5,
+      "major": "Sports Management"
+    },
+    "team": {
+      "name": "Georgia",
+      "conference": "SEC",
+      "division": "East",
+      "headCoach": "Kirby Smart"
+    },
+    "season": {
+      "year": 2023,
+      "games": 13,
+      "started": 13
+    },
+    "stats": {
+      "passing": {
+        "attempts": 417,
+        "completions": 302,
+        "yards": 3941,
+        "touchdowns": 24,
+        "interceptions": 6,
+        "rating": 158.5
+      },
+      "rushing": {
+        "attempts": 60,
+        "yards": 127,
+        "touchdowns": 4,
+        "longRun": 15
+      }
+    },
+    "usage": {
+      "overall": 0.3452,
+      "passingDowns": 0.4140,
+      "rushingDowns": 0.0785
+    },
+    "teamPerformance": {
+      "record": {
+        "overall": "12-1",
+        "conference": "8-0"
+      },
+      "bowlGame": "Orange Bowl",
+      "finalRanking": 6
+    },
+    "depthChart": {
+      "currentPosition": 1,
+      "competingQBs": 3
+    },
+    "injuries": [
+      {
+        "date": "2023-10-15",
+        "type": "Concussion",
+        "gamesOut": 1
+      }
+    ],
+    "disciplinaryActions": [],
+    "socialMediaMetrics": {
+      "followers": 50000,
+      "engagement": 0.05
+    },
+    "nil": {
+      "totalValue": 250000,
+      "numberOfDeals": 3
+    },
+    "transferHistory": []
+  }
