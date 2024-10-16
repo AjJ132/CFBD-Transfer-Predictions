@@ -43,7 +43,7 @@ class ProcessQuarterbacks:
             print(f"Team not found for player: {player['id']}")
             exit(1)
 
-        player_info = self.get_stats(player, season)
+        player_info = self.get_transfer_history(player, season)
         print(json.dumps(player_info, indent=4))
         exit(1)
 
@@ -53,11 +53,8 @@ class ProcessQuarterbacks:
             "usage": self.get_usage(player, season),
             "stats": self.get_stats(player, season),
             "teamPerformance": self.get_team_performance(player, season),
-            "depthChart": self.get_depth_chart(player, season),
-            "injuries": self.get_injuries(player, season),
-            "disciplinaryActions": self.get_disciplinary_actions(player, season),
-            "socialMediaMetrics": self.get_social_media_metrics(player, season),
-            "nil": self.get_nil_info(player, season),
+            # "socialMediaMetrics": self.get_social_media_metrics(player, season), # I would love to try and implement this
+            # "nil": self.get_nil_info(player, season), # This will need to be implemented in the future
             "transferHistory": self.get_transfer_history(player)
         }
         return qb_info
@@ -148,13 +145,12 @@ class ProcessQuarterbacks:
             'pass': usage['pass'],
             'overall': usage['overall']
         }
-        
-
+    
     def get_stats(self, player: Dict[str, Any], season: int) -> Dict[str, Any]:
         # Find all playerId by player['id'] and season from player_stats collection
         player_stats_cursor = self.db.player_stats.find({
-            "playerId": str(4430841),
-            "season": 2023
+            "playerId": str(player['id']),
+            "season": season
         })
 
         # Convert cursor to list of dictionaries
@@ -184,58 +180,106 @@ class ProcessQuarterbacks:
             'yards': 0,
             'touchdowns': 0,
             'interceptions': 0,
-            'rating': 0
+            'pct': 0
         }
 
         rushing_stats = {
-            'attempts': 0,
-            'yards': 0,
+            'ypc': 0,
             'touchdowns': 0,
-            'longRun': 0
+            'carries': 0,
+            'yards': 0,
+            'long': 0
         }
 
         fumbles_stats = {
             'fumbles': 0,
+            'recovered': 0,
             'lost': 0
         }
 
+        # print(json.dumps(fumbles_collections, indent=4))
+        # exit(1)
+
         for stat in passing_collections:
-            passing_stats['attempts'] += stat['attempts']
-            passing_stats['completions'] += stat['completions']
-            passing_stats['yards'] += stat['yards']
-            passing_stats['touchdowns'] += stat['touchdowns']
-            passing_stats['interceptions'] += stat['interceptions']
-            passing_stats['rating'] += stat['rating']
+            if stat['statType'] == 'ATT':
+                passing_stats['attempts'] += stat['stat']
+            elif stat['statType'] == 'COMPLETIONS':
+                passing_stats['completions'] += stat['stat']
+            elif stat['statType'] == 'YDS':
+                passing_stats['yards'] += stat['stat']
+            elif stat['statType'] == 'TD':
+                passing_stats['touchdowns'] += stat['stat']
+            elif stat['statType'] == 'INT':
+                passing_stats['interceptions'] += stat['stat']
+            elif stat['statType'] == 'PCT':
+                passing_stats['pct'] += stat['stat']
 
         for stat in rushing_collections:
-            rushing_stats['attempts'] += stat['attempts']
-            rushing_stats['yards'] += stat['yards']
-            rushing_stats['touchdowns'] += stat['touchdowns']
-            rushing_stats['longRun'] = max(rushing_stats['longRun'], stat['longRun'])
+            if stat['statType'] == 'YPC':
+                rushing_stats['ypc'] += stat['stat']
+            elif stat['statType'] == 'TD':
+                rushing_stats['touchdowns'] += stat['stat']
+            elif stat['statType'] == 'CAR':
+                rushing_stats['carries'] += stat['stat']
+            elif stat['statType'] == 'YDS':
+                rushing_stats['yards'] += stat['stat']
+            elif stat['statType'] == 'LONG':
+                rushing_stats['long'] += stat['stat']
+
+        for stat in fumbles_collections:
+            if stat['statType'] == 'FUM':
+                fumbles_stats['fumbles'] += stat['stat']
+            elif stat['statType'] == 'REC':
+                fumbles_stats['recovered'] += stat['stat']
+            elif stat['statType'] == 'LOST':
+                fumbles_stats['lost'] += stat['stat']
 
 
-        # Process the stats as needed
-        # For now, just return the first stat document if available
-        return player_stats_list[0] if player_stats_list else {}
+        return {
+            'passing': passing_stats,
+            'rushing': rushing_stats,
+            'fumbles': fumbles_stats
+        }
 
 
     def get_team_performance(self, player: Dict[str, Any], season: int) -> Dict[str, Any]:
         pass
 
-    def get_depth_chart(self, player: Dict[str, Any], season: int) -> Dict[str, Any]:
-        pass
+    def get_transfer_history(self, player: Dict[str, Any], year: int) -> List[Dict[str, Any]]:
+        # get player and check all their records for different schools
+        player_profiles = self.db.players.find({
+            "playerId": str(player['id']),
+            "season": year  
+        })
 
-    def get_injuries(self, player: Dict[str, Any], season: int) -> List[Dict[str, Any]]:
-        pass
 
-    def get_disciplinary_actions(self, player: Dict[str, Any], season: int) -> List[Dict[str, Any]]:
-        pass
+        # Convert cursor to list of dictionaries
+        player_profile_list = list(player_profiles)
 
-    def get_social_media_metrics(self, player: Dict[str, Any], season: int) -> Dict[str, Any]:
-        pass
+        print(player_profile_list)
+        exit(1)
 
-    def get_nil_info(self, player: Dict[str, Any], season: int) -> Dict[str, Any]:
-        pass
+        #sort the list by the 'season' key
+        player_profile_list.sort(key=lambda x: x['season'])
 
-    def get_transfer_history(self, player: Dict[str, Any]) -> List[Dict[str, Any]]:
-        pass
+        #initialize the list of schools the player has been to
+        schools = []
+
+        #initialize the current school
+        current_school = player_profile_list[0]['team']
+
+        #initialize the current season
+        current_season = player_profile_list[0]['season']
+
+        #foreach item in the list if the school is different from the current school, add the school to the list of schools
+        for profile in player_profile_list:
+            if profile['team'] != current_school:
+                schools.append(current_school)
+                current_school = profile['team']
+                current_season = profile['season']
+
+        
+        print(schools)
+        exit(1)
+        #return number of schools the player has been to
+        return len(schools)
