@@ -1,0 +1,4 @@
+Test Loss: 0.4852
+Test Accuracy: 0.8231
+
+Classification Report:

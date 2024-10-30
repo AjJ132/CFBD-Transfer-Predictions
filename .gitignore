@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Remove modified CFBD package from the git
+modified_packages/
+
 # Distribution / packaging
 .Python
 build/

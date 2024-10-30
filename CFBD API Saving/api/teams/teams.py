@@ -106,6 +106,23 @@ class CFBTeamExtractor:
         school = team["school"]
         team_id = team["id"]
         roster = self.get_team_roster(school, year, team_id)
+
+        #for each player in the roster, if firstName or lastName is null or = "" then remove
+        for player in roster:
+            if player["firstName"] == "" or player["firstName"] == None:
+                player["firstName"] = "Unknown"
+            if player["lastName"] == "" or player["lastName"] == None:
+                player["lastName"] = "Unknown"
+
+        #foreach player, if year is greater than 10, then remove that player
+        """
+        This fixes a discrepancy in the data where some players have a year value of the current season. 
+        Also the rest of their data is null
+        """
+        for player in roster:
+            if player["year"] >= 10:
+                roster.remove(player)
+
         if roster:
             self.save_players_to_db(roster, year)
         return roster

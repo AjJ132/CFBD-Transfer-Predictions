@@ -1,0 +1,255 @@
+precision,auc,n_features,features
+0.2605633802816901,0.6272727272727272,26,"['player_height', 'player_weight', 'player_class', 'usage_overall', 'stats_passing_pct', 'win_rate', 'is_power_5', 'class_risk_factor', 'win_rate_class_risk_factor', 'is_not_same_coach_next_season', 'yoy_win_rate', 'yoy_stats_passing_pct', 'yoy_usage_overall', 'team_coach_encoded', 'team_name_encoded', 'team_conference_ACC', 'team_conference_American Athletic', 'team_conference_Big 12', 'team_conference_Big Ten', 'team_conference_Conference USA', 'team_conference_FBS Independents', 'team_conference_Mid-American', 'team_conference_Mountain West', 'team_conference_Pac-12', 'team_conference_SEC', 'team_conference_Sun Belt']"
+0.22608695652173913,0.6180546726001271,15,"['is_not_same_coach_next_season' 'win_rate' 'stats_passing_pct'
+ 'team_conference_Pac-12' 'team_conference_FBS Independents'
+ 'player_class' 'yoy_stats_passing_pct' 'usage_overall'
+ 'team_conference_Big 12' 'team_coach_encoded' 'is_power_5'
+ 'team_conference_Big Ten' 'team_name_encoded'
+ 'team_conference_Mid-American' 'yoy_usage_overall']"
+0.23432343234323433,0.5998029243483789,14,"['is_not_same_coach_next_season' 'team_conference_American Athletic'
+ 'team_conference_Sun Belt' 'yoy_stats_passing_pct'
+ 'team_conference_Mountain West' 'yoy_win_rate' 'stats_passing_pct'
+ 'is_power_5' 'team_conference_FBS Independents' 'team_conference_SEC'
+ 'team_coach_encoded' 'win_rate_class_risk_factor' 'win_rate'
+ 'player_class']"
+0.2633333333333333,0.6288366179275271,14,"['is_not_same_coach_next_season' 'team_coach_encoded'
+ 'team_conference_Pac-12' 'team_conference_Big Ten' 'team_conference_SEC'
+ 'class_risk_factor' 'team_conference_Mountain West'
+ 'team_conference_FBS Independents' 'is_power_5' 'usage_overall'
+ 'yoy_usage_overall' 'team_conference_Sun Belt' 'player_class'
+ 'team_conference_American Athletic']"
+0.20533333333333334,0.5738080101716465,3,['team_conference_ACC' 'is_power_5' 'win_rate']
+0.26223776223776224,0.6272091544818817,23,"['yoy_usage_overall' 'usage_overall' 'team_conference_SEC'
+ 'team_conference_Conference USA' 'win_rate_class_risk_factor'
+ 'team_conference_Mid-American' 'team_conference_Big 12'
+ 'team_conference_ACC' 'win_rate' 'player_class' 'player_weight'
+ 'team_name_encoded' 'team_conference_Pac-12' 'team_conference_Sun Belt'
+ 'class_risk_factor' 'is_power_5' 'player_height'
+ 'team_conference_Mountain West' 'is_not_same_coach_next_season'
+ 'team_conference_Big Ten' 'yoy_win_rate'
+ 'team_conference_American Athletic' 'stats_passing_pct']"
+0.2440944881889764,0.5599491417673236,9,"['team_conference_Mid-American' 'win_rate_class_risk_factor'
+ 'player_weight' 'team_conference_Mountain West' 'stats_passing_pct'
+ 'team_conference_Big 12' 'yoy_usage_overall' 'team_name_encoded'
+ 'yoy_stats_passing_pct']"
+0.22611464968152867,0.6291036236490782,14,"['yoy_win_rate' 'team_conference_FBS Independents' 'stats_passing_pct'
+ 'team_coach_encoded' 'team_conference_SEC' 'team_conference_ACC'
+ 'team_conference_Pac-12' 'win_rate' 'usage_overall'
+ 'is_not_same_coach_next_season' 'team_name_encoded' 'player_height'
+ 'class_risk_factor' 'yoy_usage_overall']"
+0.24068767908309455,0.6431341385886841,10,"['win_rate_class_risk_factor' 'team_conference_FBS Independents'
+ 'usage_overall' 'team_conference_Sun Belt' 'win_rate' 'player_height'
+ 'is_power_5' 'is_not_same_coach_next_season' 'player_class'
+ 'yoy_win_rate']"
+0.21902017291066284,0.6299554990464081,16,"['usage_overall' 'team_conference_Conference USA' 'yoy_usage_overall'
+ 'team_conference_Mountain West' 'win_rate' 'team_name_encoded'
+ 'player_height' 'team_coach_encoded' 'team_conference_Big 12'
+ 'team_conference_Sun Belt' 'team_conference_SEC' 'yoy_stats_passing_pct'
+ 'team_conference_Pac-12' 'win_rate_class_risk_factor' 'yoy_win_rate'
+ 'team_conference_ACC']"
+0.23809523809523808,0.5964144945963128,3,['team_name_encoded' 'player_class' 'is_power_5']
+0.22045454545454546,0.6246916719643992,13,"['team_conference_Pac-12' 'is_power_5' 'team_conference_Conference USA'
+ 'team_conference_Mountain West' 'yoy_win_rate' 'win_rate'
+ 'team_conference_American Athletic' 'is_not_same_coach_next_season'
+ 'usage_overall' 'team_coach_encoded' 'player_weight' 'player_height'
+ 'team_conference_ACC']"
+0.2532188841201717,0.5933057851239669,17,"['win_rate' 'team_conference_FBS Independents'
+ 'team_conference_Conference USA' 'is_power_5'
+ 'team_conference_Mid-American' 'win_rate_class_risk_factor'
+ 'stats_passing_pct' 'team_conference_Mountain West'
+ 'team_conference_Big 12' 'class_risk_factor' 'team_conference_Pac-12'
+ 'team_conference_ACC' 'is_not_same_coach_next_season' 'yoy_win_rate'
+ 'player_class' 'player_height' 'team_name_encoded']"
+0.2556053811659193,0.6171265098537826,24,"['team_conference_Mid-American' 'team_conference_American Athletic'
+ 'usage_overall' 'team_coach_encoded' 'team_conference_FBS Independents'
+ 'team_conference_Mountain West' 'team_conference_Conference USA'
+ 'team_name_encoded' 'team_conference_Big 12' 'team_conference_SEC'
+ 'team_conference_Big Ten' 'stats_passing_pct' 'win_rate' 'is_power_5'
+ 'player_class' 'yoy_usage_overall' 'team_conference_Sun Belt'
+ 'is_not_same_coach_next_season' 'win_rate_class_risk_factor'
+ 'class_risk_factor' 'team_conference_Pac-12' 'yoy_win_rate'
+ 'player_weight' 'team_conference_ACC']"
+0.2710843373493976,0.5991799109980929,5,"['player_class' 'team_coach_encoded' 'player_height'
+ 'team_conference_Mountain West' 'stats_passing_pct']"
+0.2752808988764045,0.5912841703750795,16,"['win_rate_class_risk_factor' 'team_name_encoded' 'is_power_5'
+ 'yoy_win_rate' 'stats_passing_pct' 'team_conference_Sun Belt'
+ 'team_conference_Big 12' 'yoy_usage_overall' 'team_conference_SEC'
+ 'team_conference_Big Ten' 'player_height' 'team_conference_ACC'
+ 'player_class' 'team_coach_encoded' 'team_conference_Mid-American'
+ 'team_conference_American Athletic']"
+0.2,0.5700762873490146,4,"['team_conference_Big Ten' 'team_conference_ACC' 'team_name_encoded'
+ 'player_weight']"
+0.17687074829931973,0.5254100445009536,3,['team_conference_Sun Belt' 'win_rate' 'is_not_same_coach_next_season']
+0.24836601307189543,0.6348696757787667,11,"['team_conference_Big Ten' 'class_risk_factor' 'yoy_usage_overall'
+ 'team_conference_SEC' 'team_name_encoded' 'usage_overall' 'is_power_5'
+ 'team_conference_Pac-12' 'stats_passing_pct'
+ 'team_conference_American Athletic' 'player_class']"
+0.23232323232323232,0.6019898283534647,13,"['team_conference_Big Ten' 'team_conference_Conference USA' 'is_power_5'
+ 'player_height' 'yoy_usage_overall' 'win_rate' 'yoy_win_rate'
+ 'team_name_encoded' 'team_conference_Mid-American'
+ 'team_conference_Sun Belt' 'team_conference_Big 12' 'class_risk_factor'
+ 'team_conference_Pac-12']"
+0.22465753424657534,0.6155244755244755,24,"['yoy_stats_passing_pct' 'is_not_same_coach_next_season' 'player_class'
+ 'team_conference_Sun Belt' 'usage_overall' 'win_rate' 'stats_passing_pct'
+ 'player_height' 'team_conference_SEC' 'team_conference_Conference USA'
+ 'team_conference_Big Ten' 'team_conference_ACC' 'team_coach_encoded'
+ 'team_conference_American Athletic' 'team_conference_Mid-American'
+ 'win_rate_class_risk_factor' 'team_conference_Mountain West'
+ 'team_conference_Pac-12' 'team_conference_FBS Independents'
+ 'player_weight' 'is_power_5' 'team_conference_Big 12' 'yoy_usage_overall'
+ 'team_name_encoded']"
+0.25704225352112675,0.6306039415130323,17,"['team_name_encoded' 'team_coach_encoded'
+ 'team_conference_American Athletic' 'player_height'
+ 'team_conference_Big Ten' 'is_power_5' 'team_conference_ACC'
+ 'is_not_same_coach_next_season' 'player_weight'
+ 'team_conference_FBS Independents' 'class_risk_factor'
+ 'yoy_stats_passing_pct' 'usage_overall' 'player_class'
+ 'team_conference_Mid-American' 'win_rate' 'team_conference_Big 12']"
+0.20157068062827224,0.5728035600762874,4,"['yoy_usage_overall' 'team_conference_FBS Independents' 'player_height'
+ 'yoy_win_rate']"
+0.2516778523489933,0.6279338842975207,24,"['team_conference_Mountain West' 'win_rate' 'is_power_5'
+ 'class_risk_factor' 'win_rate_class_risk_factor' 'team_conference_Big 12'
+ 'team_name_encoded' 'team_coach_encoded' 'yoy_stats_passing_pct'
+ 'team_conference_Mid-American' 'team_conference_Pac-12' 'yoy_win_rate'
+ 'team_conference_Sun Belt' 'player_class' 'team_conference_Big Ten'
+ 'player_weight' 'stats_passing_pct' 'team_conference_FBS Independents'
+ 'team_conference_Conference USA' 'usage_overall'
+ 'is_not_same_coach_next_season' 'player_height' 'team_conference_SEC'
+ 'team_conference_ACC']"
+0.22950819672131148,0.5989446916719643,11,"['team_conference_American Athletic' 'team_name_encoded'
+ 'team_conference_Pac-12' 'team_conference_SEC' 'team_coach_encoded'
+ 'team_conference_Sun Belt' 'win_rate_class_risk_factor'
+ 'team_conference_Big 12' 'player_class' 'team_conference_Big Ten'
+ 'class_risk_factor']"
+0.2245762711864407,0.5863000635727907,14,"['yoy_usage_overall' 'team_conference_Mid-American'
+ 'team_conference_Conference USA' 'team_conference_Big 12'
+ 'team_conference_SEC' 'is_power_5' 'team_conference_Mountain West'
+ 'team_conference_American Athletic' 'yoy_win_rate' 'class_risk_factor'
+ 'yoy_stats_passing_pct' 'team_conference_Sun Belt' 'player_height'
+ 'win_rate']"
+0.19962686567164178,0.6065479974570884,9,"['team_conference_Conference USA' 'usage_overall' 'team_coach_encoded'
+ 'is_not_same_coach_next_season' 'team_conference_American Athletic'
+ 'team_conference_Mid-American' 'win_rate_class_risk_factor'
+ 'player_height' 'yoy_usage_overall']"
+0.24561403508771928,0.5834392879847425,4,"['player_class' 'team_conference_Mid-American' 'yoy_stats_passing_pct'
+ 'team_conference_Big Ten']"
+0.23529411764705882,0.5853591862682772,8,"['team_conference_Mountain West' 'team_conference_ACC' 'stats_passing_pct'
+ 'team_conference_SEC' 'team_conference_Pac-12' 'team_conference_Sun Belt'
+ 'player_height' 'is_not_same_coach_next_season']"
+0.27555555555555555,0.6256961220597583,24,"['team_conference_Pac-12' 'player_class' 'class_risk_factor'
+ 'stats_passing_pct' 'team_conference_SEC' 'team_name_encoded'
+ 'team_conference_Mid-American' 'team_conference_ACC' 'win_rate'
+ 'yoy_stats_passing_pct' 'team_conference_American Athletic'
+ 'player_weight' 'yoy_win_rate' 'team_conference_Big 12' 'player_height'
+ 'team_conference_FBS Independents' 'team_conference_Sun Belt'
+ 'team_conference_Conference USA' 'team_conference_Big Ten'
+ 'usage_overall' 'is_not_same_coach_next_season' 'team_coach_encoded'
+ 'team_conference_Mountain West' 'is_power_5']"
+0.2375366568914956,0.6287794024157661,10,"['team_conference_Conference USA' 'team_coach_encoded' 'yoy_usage_overall'
+ 'usage_overall' 'team_conference_Sun Belt' 'team_conference_Pac-12'
+ 'yoy_stats_passing_pct' 'class_risk_factor' 'win_rate'
+ 'stats_passing_pct']"
+0.2210242587601078,0.61553083280356,9,"['player_height' 'team_conference_Pac-12' 'usage_overall'
+ 'team_conference_Mid-American' 'team_conference_Big 12'
+ 'win_rate_class_risk_factor' 'team_conference_Big Ten'
+ 'class_risk_factor' 'is_power_5']"
+0.2235294117647059,0.6097075651621106,17,"['is_not_same_coach_next_season' 'win_rate_class_risk_factor'
+ 'team_conference_American Athletic' 'team_conference_Mid-American'
+ 'team_conference_Big 12' 'team_conference_Pac-12' 'usage_overall'
+ 'team_conference_Mountain West' 'yoy_usage_overall' 'win_rate'
+ 'class_risk_factor' 'stats_passing_pct' 'team_conference_Big Ten'
+ 'team_conference_FBS Independents' 'player_class' 'team_conference_SEC'
+ 'yoy_stats_passing_pct']"
+0.16666666666666666,0.5727527018436109,4,"['team_conference_Pac-12' 'stats_passing_pct' 'yoy_win_rate'
+ 'team_coach_encoded']"
+0.2482758620689655,0.6315130324221233,11,"['win_rate_class_risk_factor' 'class_risk_factor' 'stats_passing_pct'
+ 'win_rate' 'usage_overall' 'team_conference_Conference USA'
+ 'yoy_usage_overall' 'is_not_same_coach_next_season'
+ 'team_conference_Mountain West' 'player_class' 'player_weight']"
+0.2517482517482518,0.5899554990464082,9,"['team_conference_Mid-American' 'team_conference_ACC' 'player_class'
+ 'class_risk_factor' 'team_conference_Mountain West' 'player_height'
+ 'win_rate_class_risk_factor' 'team_coach_encoded' 'stats_passing_pct']"
+0.23624595469255663,0.6227209154481882,17,"['usage_overall' 'class_risk_factor' 'player_height' 'is_power_5'
+ 'team_conference_Mid-American' 'team_conference_SEC'
+ 'yoy_stats_passing_pct' 'is_not_same_coach_next_season'
+ 'win_rate_class_risk_factor' 'team_name_encoded' 'team_conference_Big 12'
+ 'team_conference_Pac-12' 'stats_passing_pct' 'team_conference_Sun Belt'
+ 'team_conference_Big Ten' 'player_class'
+ 'team_conference_FBS Independents']"
+0.25,0.6209408773045137,10,"['class_risk_factor' 'team_name_encoded' 'is_not_same_coach_next_season'
+ 'team_conference_SEC' 'team_conference_Mountain West'
+ 'team_conference_ACC' 'usage_overall' 'yoy_usage_overall'
+ 'stats_passing_pct' 'player_weight']"
+0.2273972602739726,0.616694214876033,17,"['win_rate_class_risk_factor' 'is_not_same_coach_next_season'
+ 'team_name_encoded' 'team_conference_Mountain West' 'usage_overall'
+ 'team_conference_ACC' 'player_height' 'team_conference_Conference USA'
+ 'stats_passing_pct' 'class_risk_factor' 'player_weight'
+ 'team_conference_Pac-12' 'team_coach_encoded' 'team_conference_Sun Belt'
+ 'team_conference_FBS Independents' 'team_conference_American Athletic'
+ 'yoy_win_rate']"
+0.24015748031496062,0.6120406865861412,12,"['team_conference_Mid-American' 'win_rate' 'team_conference_Mountain West'
+ 'usage_overall' 'win_rate_class_risk_factor' 'class_risk_factor'
+ 'team_name_encoded' 'stats_passing_pct' 'player_weight' 'yoy_win_rate'
+ 'team_conference_SEC' 'team_conference_Pac-12']"
+0.2413793103448276,0.6241958041958042,16,"['team_coach_encoded' 'team_name_encoded' 'player_height'
+ 'class_risk_factor' 'team_conference_ACC' 'team_conference_Big 12'
+ 'stats_passing_pct' 'win_rate' 'team_conference_American Athletic'
+ 'is_power_5' 'player_class' 'yoy_stats_passing_pct'
+ 'team_conference_Mountain West' 'yoy_win_rate' 'usage_overall'
+ 'team_conference_SEC']"
+0.19047619047619047,0.5743674507310871,5,"['stats_passing_pct' 'team_conference_Pac-12' 'class_risk_factor'
+ 'yoy_stats_passing_pct' 'team_conference_Mid-American']"
+0.22448979591836735,0.6193006993006993,18,"['yoy_stats_passing_pct' 'player_height' 'team_conference_Big 12'
+ 'team_name_encoded' 'team_conference_Conference USA' 'class_risk_factor'
+ 'yoy_win_rate' 'is_not_same_coach_next_season' 'stats_passing_pct'
+ 'team_conference_American Athletic' 'team_conference_Mid-American'
+ 'team_conference_SEC' 'player_class' 'is_power_5' 'win_rate'
+ 'usage_overall' 'team_conference_FBS Independents' 'team_coach_encoded']"
+0.2057877813504823,0.5611824539097267,12,"['team_conference_SEC' 'win_rate' 'yoy_usage_overall'
+ 'team_conference_Pac-12' 'win_rate_class_risk_factor'
+ 'team_conference_Big 12' 'stats_passing_pct'
+ 'team_conference_FBS Independents' 'class_risk_factor'
+ 'team_conference_Mid-American' 'team_conference_Conference USA'
+ 'yoy_stats_passing_pct']"
+0.22988505747126436,0.6234075015893197,17,"['yoy_stats_passing_pct' 'player_height' 'usage_overall'
+ 'class_risk_factor' 'player_class' 'stats_passing_pct'
+ 'team_conference_ACC' 'team_conference_Big Ten' 'team_name_encoded'
+ 'team_conference_Mid-American' 'is_not_same_coach_next_season'
+ 'team_conference_Mountain West' 'win_rate' 'team_conference_SEC'
+ 'team_conference_Conference USA' 'is_power_5' 'yoy_win_rate']"
+0.23229461756373937,0.6267005721551177,18,"['team_conference_Big Ten' 'team_coach_encoded'
+ 'team_conference_Conference USA' 'win_rate' 'yoy_stats_passing_pct'
+ 'win_rate_class_risk_factor' 'class_risk_factor' 'usage_overall'
+ 'team_conference_Mountain West' 'team_conference_American Athletic'
+ 'team_conference_Sun Belt' 'yoy_usage_overall'
+ 'team_conference_Mid-American' 'player_weight'
+ 'is_not_same_coach_next_season' 'team_conference_FBS Independents'
+ 'player_height' 'team_conference_Big 12']"
+0.20846905537459284,0.5556516211061665,19,"['team_conference_American Athletic' 'player_height' 'win_rate'
+ 'team_conference_Big 12' 'team_name_encoded' 'yoy_win_rate'
+ 'yoy_usage_overall' 'team_conference_Big Ten' 'stats_passing_pct'
+ 'team_conference_FBS Independents' 'player_weight'
+ 'yoy_stats_passing_pct' 'team_conference_SEC'
+ 'team_conference_Conference USA' 'team_conference_Mid-American'
+ 'is_power_5' 'team_conference_Sun Belt' 'win_rate_class_risk_factor'
+ 'team_conference_Mountain West']"
+0.23214285714285715,0.6030514939605849,12,"['yoy_usage_overall' 'team_coach_encoded' 'win_rate_class_risk_factor'
+ 'team_conference_Pac-12' 'yoy_stats_passing_pct'
+ 'is_not_same_coach_next_season' 'team_conference_Conference USA'
+ 'is_power_5' 'class_risk_factor' 'team_conference_American Athletic'
+ 'yoy_win_rate' 'team_name_encoded']"
+0.21575342465753425,0.5887412587412588,20,"['team_conference_Mountain West' 'team_conference_Pac-12'
+ 'yoy_usage_overall' 'team_conference_Big 12' 'team_conference_SEC'
+ 'win_rate_class_risk_factor' 'team_conference_Sun Belt'
+ 'stats_passing_pct' 'yoy_stats_passing_pct' 'team_name_encoded'
+ 'class_risk_factor' 'player_height' 'yoy_win_rate'
+ 'team_conference_FBS Independents' 'team_conference_Big Ten'
+ 'is_not_same_coach_next_season' 'team_coach_encoded' 'win_rate'
+ 'is_power_5' 'team_conference_ACC']"
+0.23897058823529413,0.6066497139224412,18,"['yoy_stats_passing_pct' 'player_class' 'team_conference_Pac-12'
+ 'team_conference_Mountain West' 'class_risk_factor' 'stats_passing_pct'
+ 'team_conference_Big 12' 'team_conference_Sun Belt' 'yoy_win_rate'
+ 'is_power_5' 'team_name_encoded' 'team_conference_Conference USA'
+ 'player_height' 'yoy_usage_overall' 'usage_overall'
+ 'team_conference_Big Ten' 'team_conference_SEC'
+ 'team_conference_Mid-American']"

@@ -1,0 +1,4970 @@
+{
+  "Boston College": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Indiana": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Oregon State": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2018": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Arkansas State": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Houston": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Rutgers": {
+    "2016": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2019": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Syracuse": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 10
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Rice": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2018": {
+      "wins": 2,
+      "losses": 11
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Kansas": {
+    "2016": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2017": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 9
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Arkansas": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2019": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Colorado State": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Wyoming": {
+    "2016": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Central Michigan": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Akron": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2019": {
+      "wins": 0,
+      "losses": 12
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2023": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Western Kentucky": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 17
+    },
+    "2019": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Troy": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Air Force": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Iowa State": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 9,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Toledo": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "San Jos\u00e9 State": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 11
+    },
+    "2018": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Northern Illinois": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Wisconsin": {
+    "2016": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Minnesota": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Wake Forest": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Eastern Michigan": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Duke": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 9
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Michigan State": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "New Mexico": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Fresno State": {
+    "2016": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UConn": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2019": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 0
+    },
+    "2021": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "NC State": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Maryland": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "California": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "North Carolina": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 2,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Iowa": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Florida State": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Northwestern": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Western Michigan": {
+    "2016": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Penn State": {
+    "2016": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Ole Miss": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Tulane": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UCF": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 13,
+      "losses": 0
+    },
+    "2018": {
+      "wins": 12,
+      "losses": 1
+    },
+    "2019": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Virginia Tech": {
+    "2016": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Arizona State": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Baylor": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Oklahoma State": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Michigan": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2023": {
+      "wins": 15,
+      "losses": 0
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Boise State": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Kent State": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2018": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Purdue": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Oregon": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "USC": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "West Virginia": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Marshall": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Louisiana Tech": {
+    "2016": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Southern Miss": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 6,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Louisiana": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 10,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Bowling Green": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Georgia Tech": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Tennessee": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "South Alabama": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Notre Dame": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 12,
+      "losses": 1
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 10,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Texas Tech": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UTEP": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 0,
+      "losses": 12
+    },
+    "2018": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2019": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Charlotte": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Georgia State": {
+    "2016": {
+      "wins": 2,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Washington State": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Buffalo": {
+    "2016": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "North Texas": {
+    "2016": {
+      "wins": 5,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "San Diego State": {
+    "2016": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Colorado": {
+    "2016": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Auburn": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Miami (OH)": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "New Mexico State": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Vanderbilt": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 9
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Florida": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Virginia": {
+    "2016": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Ohio State": {
+    "2016": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2017": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2018": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2019": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "LSU": {
+    "2016": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 15,
+      "losses": 0
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Army": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 9,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Tulsa": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "East Carolina": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UCLA": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "SMU": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Mississippi State": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "South Carolina": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 8
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Pittsburgh": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Ball State": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2018": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Navy": {
+    "2016": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 10
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Memphis": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Missouri": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Florida Atlantic": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "TCU": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 13,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Washington": {
+    "2016": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 14,
+      "losses": 1
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Louisville": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 0,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 7
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Idaho": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    }
+  },
+  "Nevada": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2023": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Temple": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Miami": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Nebraska": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Arizona": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Hawai'i": {
+    "2016": {
+      "wins": 7,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 10,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 10
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Alabama": {
+    "2016": {
+      "wins": 14,
+      "losses": 1
+    },
+    "2017": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2018": {
+      "wins": 14,
+      "losses": 1
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 13,
+      "losses": 0
+    },
+    "2021": {
+      "wins": 13,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2023": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UNLV": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "App State": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2020": {
+      "wins": 9,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Stanford": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "BYU": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 11,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Georgia": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 13,
+      "losses": 2
+    },
+    "2018": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 14,
+      "losses": 1
+    },
+    "2022": {
+      "wins": 15,
+      "losses": 0
+    },
+    "2023": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Illinois": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2018": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Kansas State": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 4,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Ohio": {
+    "2016": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Middle Tennessee": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 8,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Oklahoma": {
+    "2016": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2017": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2018": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2020": {
+      "wins": 9,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Kentucky": {
+    "2016": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 5,
+      "losses": 6
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Texas": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Texas A&M": {
+    "2016": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 9,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Georgia Southern": {
+    "2016": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2018": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Clemson": {
+    "2016": {
+      "wins": 14,
+      "losses": 1
+    },
+    "2017": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2018": {
+      "wins": 15,
+      "losses": 0
+    },
+    "2019": {
+      "wins": 14,
+      "losses": 1
+    },
+    "2020": {
+      "wins": 10,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "South Florida": {
+    "2016": {
+      "wins": 10,
+      "losses": 2
+    },
+    "2017": {
+      "wins": 10,
+      "losses": 2
+    },
+    "2018": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 8
+    },
+    "2021": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2022": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2023": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Cincinnati": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 9,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Florida International": {
+    "2016": {
+      "wins": 0,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2019": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UL Monroe": {
+    "2016": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 10
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Utah State": {
+    "2016": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2019": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2020": {
+      "wins": 1,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2022": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Massachusetts": {
+    "2016": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2017": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2018": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2019": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 4
+    },
+    "2021": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2022": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Utah": {
+    "2016": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2017": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2018": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2019": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2020": {
+      "wins": 3,
+      "losses": 2
+    },
+    "2021": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 10,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Old Dominion": {
+    "2016": {
+      "wins": 10,
+      "losses": 3
+    },
+    "2017": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2018": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2019": {
+      "wins": 1,
+      "losses": 11
+    },
+    "2020": {
+      "wins": 0,
+      "losses": 0
+    },
+    "2021": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2022": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2023": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UTSA": {
+    "2016": {
+      "wins": 6,
+      "losses": 7
+    },
+    "2017": {
+      "wins": 6,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2020": {
+      "wins": 7,
+      "losses": 5
+    },
+    "2021": {
+      "wins": 12,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Texas State": {
+    "2016": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2017": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2018": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2019": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2020": {
+      "wins": 2,
+      "losses": 10
+    },
+    "2021": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2022": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Coastal Carolina": {
+    "2017": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2018": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2019": {
+      "wins": 5,
+      "losses": 7
+    },
+    "2020": {
+      "wins": 11,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2022": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2023": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "UAB": {
+    "2017": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2018": {
+      "wins": 11,
+      "losses": 3
+    },
+    "2019": {
+      "wins": 9,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 6,
+      "losses": 3
+    },
+    "2021": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2022": {
+      "wins": 7,
+      "losses": 6
+    },
+    "2023": {
+      "wins": 4,
+      "losses": 8
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Liberty": {
+    "2018": {
+      "wins": 6,
+      "losses": 6
+    },
+    "2019": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2020": {
+      "wins": 10,
+      "losses": 1
+    },
+    "2021": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2022": {
+      "wins": 8,
+      "losses": 5
+    },
+    "2023": {
+      "wins": 13,
+      "losses": 1
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "James Madison": {
+    "2022": {
+      "wins": 8,
+      "losses": 3
+    },
+    "2023": {
+      "wins": 11,
+      "losses": 2
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Sam Houston": {
+    "2023": {
+      "wins": 3,
+      "losses": 9
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "Jacksonville State": {
+    "2023": {
+      "wins": 9,
+      "losses": 4
+    },
+    "2024": {
+      "wins": 0,
+      "losses": 0
+    }
+  }
+}
